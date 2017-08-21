@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "SabineSwiss"
+  s.name         = "SabineSwissSDK"
   s.version      = "1.0.1"
   s.summary      = "SDK for communicate Sabine Bluetooth Devices."
   s.description  = <<-DESC
