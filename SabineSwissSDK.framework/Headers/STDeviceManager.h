@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-FOUNDATION_EXPORT NSString * const kSDKVertion;
+FOUNDATION_EXPORT NSString * const kSDKVersion;
 /*!
  * 蓝牙协议连接状态发生变化的通知
  */
