@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "SabineSwissSDK"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "SDK for communicate Sabine Bluetooth Devices."
   s.description  = <<-DESC
 First release at 20170821, see more from: http://www.sabinetek.com/l,6,0.html#license 
